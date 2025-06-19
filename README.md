@@ -4,13 +4,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Greedy
 |  |
 | ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
 | ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
