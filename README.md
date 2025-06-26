@@ -29,9 +29,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
