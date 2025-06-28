@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0202-happy-number) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0342-power-of-four) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
