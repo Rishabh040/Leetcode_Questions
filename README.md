@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
 ## Counting Sort
 |  |
 | ------- |
