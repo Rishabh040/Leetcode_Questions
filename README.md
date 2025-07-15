@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0202-happy-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0202-happy-number) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0561-array-partition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
