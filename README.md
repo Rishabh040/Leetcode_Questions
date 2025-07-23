@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -121,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
