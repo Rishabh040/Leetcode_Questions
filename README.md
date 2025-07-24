@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0072-edit-distance) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
