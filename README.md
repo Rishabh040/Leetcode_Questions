@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0198-house-robber](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -142,8 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
