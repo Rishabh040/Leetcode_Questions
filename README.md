@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0118-pascals-triangle) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0072-edit-distance) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3790-fruits-into-baskets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
