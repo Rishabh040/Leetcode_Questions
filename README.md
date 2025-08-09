@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
