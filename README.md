@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0072-edit-distance) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Brainteaser
 |  |
 | ------- |
