@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0561-array-partition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
