@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0561-array-partition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Binary Search Tree
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
