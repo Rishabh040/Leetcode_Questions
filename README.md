@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0342-power-of-four) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0292-nim-game) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Game Theory
 |  |
 | ------- |
@@ -218,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
