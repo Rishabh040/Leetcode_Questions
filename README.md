@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0561-array-partition) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
