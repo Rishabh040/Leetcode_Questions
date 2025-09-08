@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0053-maximum-subarray) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0217-contains-duplicate) |
