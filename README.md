@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0217-contains-duplicate) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
