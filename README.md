@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
