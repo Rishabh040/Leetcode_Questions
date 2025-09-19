@@ -15,25 +15,17 @@
  */
 import java.util.Stack;
 
-class Solution {
+class Solution { 
+    TreeNode prev = null;
+
     public void flatten(TreeNode root) {
         if (root == null) return;
 
-        Stack<TreeNode> stack = new Stack<>();
-        stack.push(root);
+        flatten(root.right);
+        flatten(root.left);
 
-        while (!stack.isEmpty()) {
-            TreeNode curr = stack.pop();
-
-            // Push right first so that left is processed first
-            if (curr.right != null) stack.push(curr.right);
-            if (curr.left != null) stack.push(curr.left);
-
-            // Rewire pointers
-            if (!stack.isEmpty()) {
-                curr.right = stack.peek();
-            }
-            curr.left = null; // left should always be null
-        }
+        root.left = null;
+        root.right = prev;
+        prev = root;
     }
 }
