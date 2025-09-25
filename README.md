@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0561-array-partition) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0202-happy-number) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -287,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0164-maximum-gap) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
