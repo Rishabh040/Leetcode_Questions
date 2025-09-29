@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0143-reorder-list) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0143-reorder-list) |
