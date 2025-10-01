@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1642-water-bottles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Recursion
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1642-water-bottles) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
