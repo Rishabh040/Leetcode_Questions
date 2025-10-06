@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0148-sort-list) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Segment Tree
 |  |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0148-sort-list) |
 ## Stack
 |  |
