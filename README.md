@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0392-is-subsequence) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Math
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0168-excel-sheet-column-title) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0392-is-subsequence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Brainteaser
