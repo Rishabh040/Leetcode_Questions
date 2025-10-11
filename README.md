@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0392-is-subsequence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3811-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1642-water-bottles) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3811-reverse-degree-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
