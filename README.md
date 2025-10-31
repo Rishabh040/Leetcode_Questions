@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rishabh040/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rishabh040/Leetcode_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rishabh040/Leetcode_Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
 | ------- |
